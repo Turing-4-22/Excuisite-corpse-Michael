@@ -3,4 +3,5 @@ test
 A longer   
 		text  
 				of 3 lines  
+ASmallerTextOf1Line  
 
